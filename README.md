@@ -1,2 +1,2 @@
-# app-store-connect-translations
-Upload translations to the App Store Connect
+# app-store-connect-release-notes
+Upload release notes to the App Store Connect
